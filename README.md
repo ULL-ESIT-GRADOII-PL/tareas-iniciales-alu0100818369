@@ -1,14 +1,12 @@
-## Tarea Inicial
+#Tareas iniciales Procesadores de lenguajes
+##Natalie Dajakaj
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
-
-* NodeJS
+En esta práctica comenzaremos a usar:
+* Node.js
 * Express
 * Atom
+* Pancoc
+* Git
 * GitHub
-* Cloud9
 * Markdown
-
-[Página personal de prácticas](http://alu0100818369.github.io/)
-
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
+* Cloud9
