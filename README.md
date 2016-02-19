@@ -9,6 +9,6 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 * Cloud9
 * Markdown
 
-[Página personal de prácticas](http://alu0100818369.github.io/ s)
+[Página personal de prácticas](http://alu0100818369.github.io/)
 
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
+[Página de la práctica inicial](http://http://ull-esit-gradoii-pl.github.io/tareas-iniciales-alu0100818369/)
